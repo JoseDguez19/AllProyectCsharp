@@ -1,0 +1,16 @@
+C:\Users\ap550\source\repos\AllProyectsFramework\bin\Debug\AllProyectsFramework.exe
+C:\Users\ap550\source\repos\AllProyectsFramework\bin\Debug\AllProyectsFramework.pdb
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Form1.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Properties.Resources.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.TemperaturasForm.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.csproj.GenerateResource.cache
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.exe
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.pdb
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Impuestos.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Poligonos.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Radianes.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Semana.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Moneda.resources
+C:\Users\ap550\source\repos\AllProyectsFramework\obj\Debug\AllProyectsFramework.Credits.resources
